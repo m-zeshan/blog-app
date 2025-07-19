@@ -1,4 +1,4 @@
-# Building a Blog Application
+# A Blog Application
 This project covered several features of the Django web framework while building a full-fledged blog application covering the following:
 1. Creating and configuring a Django project.
 2. Building a Django application.
